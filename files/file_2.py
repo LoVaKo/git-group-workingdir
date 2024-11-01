@@ -6,10 +6,10 @@ class Dog:
         self.name = name
         self.age = age
 
-    def bark (self) :
-        if self.age < 8 :
+    def bark (self):
+        if self.age < 8:
             print(f"{self.name} says: WOOF")
-        else :
+        else:
             print(f"{self.name} says: WOF")
 
 brutus = Dog("Brutus", 4)
