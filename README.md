@@ -14,7 +14,7 @@ I created this assignment to familiarize students with the basics of git workflo
 2. Clone the forked repository to your pc with `git clone <forked_repository_url>`
 
 ## Assignment 1: Fix and debug
-1. Each group should create a new branch from `main` named `fix-debug` for debugging work
+1. Each group/student should create a new branch from `main` named `fix-debug` for debugging work
 2. Debug `file_1.py`
 3. Commit the changes (Choose an appropriate commit message)
 4. Push the `fix-debug` branch to the forked repository
@@ -27,7 +27,7 @@ I created this assignment to familiarize students with the basics of git workflo
 4. Push the branch and make a pull request
 
 ## Assignment 3: Code review
-1. Switch to another students fork. Review the pull requests created by another student by adding comments or suggesting improvements.
+1. Switch to another group/students fork. Review the pull requests created by another group/student by adding comments or suggesting improvements.
 2. Approve and merge the PR.
 
 ## Assignment 4: Resolve conflicts
